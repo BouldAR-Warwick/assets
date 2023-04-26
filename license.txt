@@ -1,0 +1,5 @@
+Bouldering icon:
+source: https://www.flaticon.com/free-icon/climbing_3163627
+creator: Flaticon
+license: Flaticon license
+attribution: <a href="https://www.flaticon.com/free-icons/climbing" title="climbing icons">Climbing icons created by photo3idea_studio - Flaticon</a>
